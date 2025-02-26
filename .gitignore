@@ -3,6 +3,5 @@ node_modules/
 config.json
 .DS_Store
 .vscode/
-.package-lock.json/
-.package.json/
+
 
