@@ -4,16 +4,12 @@ This project is a simple **Blog API** built using **Express.js** that supports C
 
 ## Features
 
-- **CRUD operations** (Create, Read, Update, Delete) for blog posts.
-- Simple UI for managing posts using EJS templates.
+- **Retrieve all posts** or a **single post** by ID.
+- **Create new blog posts** with a title, content, and author.
+- **Edit existing posts** (partial updates supported).
+- **Delete blog posts** from the database.
+- **User-friendly frontend** using EJS templates.
 
-## API Endpoints
-
-- **GET /posts** - Get all blog posts.
-- **GET /posts/:id** - Get a post by ID.
-- **POST /posts** - Create a new post.
-- **PATCH /posts/:id** - Update a post.
-- **DELETE /posts/:id** - Delete a post.
 
 ## How to Run
 
