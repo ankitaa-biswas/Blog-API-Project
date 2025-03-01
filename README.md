@@ -22,11 +22,29 @@ This project is a simple **Blog API** built using **Express.js** that supports C
   ```sh
   npm install
   ```
-3.Start the backend server:
+
+3.Start the Backend API
+
+Open the first terminal and navigate to the project directory.
+
+Run the following command to start the backend API:
+
 ```sh
-npm start
+nodemon server.js
 ```
-4.Start the frontend server:
+
+The API will start on http://localhost:4000
+
+4.Start the Frontend Server
+
+Open a second terminal and navigate to the project directory.
+
+Run the following command to start the frontend server:
+
 ```sh
-npm run dev
+nodemon index.js
 ```
+
+The frontend will be available at http://localhost:3000
+
+
