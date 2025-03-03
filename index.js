@@ -30,6 +30,29 @@ let posts = [
     author: "Samuel Green",
     date: "2023-08-10T09:15:00Z",
   },
+  {
+    id:4,
+    title:"The Future of Space Exploration: Beyond the Moon and Mars",
+    content:
+    "The dream of interplanetary travel is closer than ever. With advancements in propulsion technology, robotics, and AI-driven space exploration, scientists are working toward missions beyond Mars. From the potential colonization of the Moon to ambitious plans for exploring Europa’s subsurface oceans, the future of space exploration is full of possibilities. Private companies like SpaceX and Blue Origin, alongside government agencies, are accelerating humanity’s journey into the cosmos.",
+    author:"Emily Carter",
+    date:"2023-08-15T11:45:00Z"
+  },
+  {
+    id:5,
+    title:"Cybersecurity in the Age of Quantum Computing",
+    content:
+    "As quantum computers advance, the future of cybersecurity is at stake. Traditional encryption methods may become obsolete as quantum algorithms crack even the strongest cryptographic codes. This raises the urgency for post-quantum cryptography—developing security measures that can withstand quantum threats. Governments, research institutions, and tech giants are racing to find solutions before quantum supremacy renders today’s security protocols vulnerable.",
+    author:"Daniel Foster",
+    date:"2023-08-20T16:10:00Z"
+  },
+  {
+    id:6,
+    title:"The Rise of Remote Work and the Future of Offices",
+    content:"The pandemic permanently reshaped work culture. With the rise of remote and hybrid work models, companies are rethinking traditional office spaces. Employees are prioritizing flexibility, and businesses are investing in digital tools for seamless collaboration. While some predict a decline in office spaces, others believe hybrid models will redefine the future of corporate environments. The question remains—will remote work become the norm or remain a privilege?",
+    author:"Olivia Reynolds",
+    date:"2023-08-25T13:20:00Z"
+  }
 ];
 
 let lastId = 3;

@@ -1,4 +1,4 @@
-/* Reset some default browser styles */
+Reset some default browser styles
 body,
 h1,
 h2,
@@ -109,8 +109,9 @@ li:last-child {
 
 a.edit {
   background-color: #007bff;
-  /* margin-right: 10px; */
+  margin-right: 10px; 
 }
+
 
 a.delete {
   background-color: #e74c3c;
@@ -136,4 +137,4 @@ a.delete:hover {
 
 #newPostBtn:hover {
   background-color: #27ae60;
-}
+} 
